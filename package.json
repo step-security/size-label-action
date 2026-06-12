@@ -13,7 +13,7 @@
     "compile": "ncc build index.js --license LICENSE -o dist"
   },
   "dependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^3.0.1",
     "@octokit/rest": "^22.0.1",
     "axios": "1.16.0",
     "globrex": "^0.1.2",
